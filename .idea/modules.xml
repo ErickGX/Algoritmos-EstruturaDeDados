@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Algoritmos/Algoritmos.iml" filepath="$PROJECT_DIR$/Algoritmos/Algoritmos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Arvores/Arvores.iml" filepath="$PROJECT_DIR$/Arvores/Arvores.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Estruturas de Dados.iml" filepath="$PROJECT_DIR$/.idea/Estruturas de Dados.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Fila/Fila.iml" filepath="$PROJECT_DIR$/Fila/Fila.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hash/Hash.iml" filepath="$PROJECT_DIR$/Hash/Hash.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Listas/Listas.iml" filepath="$PROJECT_DIR$/Listas/Listas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Pilhas/Pilhas.iml" filepath="$PROJECT_DIR$/Pilhas/Pilhas.iml" />
+    </modules>
+  </component>
+</project>
